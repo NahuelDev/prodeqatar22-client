@@ -21,3 +21,6 @@ Prode Qatar 22 is a sports prediction game for the 2022 Qatar World Cup. Users c
 - API Football
 - Firebase Authentication
 - Material UI
+
+
+This is just the client, the server is found [here](https://github.com/NahuelDev/prodeqatar22)
